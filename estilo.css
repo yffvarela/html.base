@@ -1,0 +1,78 @@
+h1{
+    color:brown;
+    font-size: 4em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: beige;
+    text-align: center;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+.um{
+    font-family: Arial, Helvetica, sans-serif;
+    background: bisque;
+    font-size: x-large;
+    font-style: italic;
+    text-align: center;
+}
+
+.dois{
+    font-family: Arial, Helvetica, sans-serif;
+    background: bisque; 
+    font-size: x-large;
+    font-style: italic;
+    text-align: center;
+}
+.tres{
+    font-family: Arial, Helvetica, sans-serif;
+    background: bisque;
+    font-size: x-large;
+    font-style: italic;
+    text-align: center;
+}
+.quatro{
+    font-family: Arial, Helvetica, sans-serif;
+    background: bisque;
+    font-size: x-large;
+    font-style: italic;
+    text-align: center;
+
+
+}
+.peu{
+    height: 300px;
+    width: 300px;
+    background-color:bisque;
+    border: solid;
+    position: absolute;
+    top: 0,50cm;
+    left: 0px;
+}
+.pdois{
+    height: 300px;
+    width: 300px;
+    background-color: bisque;
+    border: solid;
+    position: absolute;
+    top: 0,50cm;
+    left: 340px;
+
+}
+.ptres{
+    height: 300px;
+    width: 300px;
+    background-color: bisque;
+    border: solid; 
+    position: absolute;
+    top:0,50cm;
+    left:655px;
+    
+}
+.pquatro{
+    height: 300px;
+    width: 300px;
+    background-color: bisque;
+    border: solid;
+    position: absolute;
+    top:0,50cm;
+    left:970px;
+}
